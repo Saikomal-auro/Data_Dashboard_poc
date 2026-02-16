@@ -1,0 +1,17 @@
+# ===============================
+# FRONTEND
+# ===============================
+frontend/node_modules/
+frontend/.next/
+frontend/.env.local
+frontend/build/
+frontend/out/
+
+# ===============================
+# BACKEND
+# ===============================
+backend/venv/
+backend/env/
+backend/.env
+backend/__pycache__/
+backend/*.pyc

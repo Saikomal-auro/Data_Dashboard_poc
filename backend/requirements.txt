@@ -1,0 +1,18 @@
+# CopilotKit and LangGraph
+copilotkit
+langgraph
+langchain
+langchain-openai
+langchain-core
+
+# Web Framework
+fastapi
+uvicorn
+pydantic
+
+# Environment
+python-dotenv
+
+# Utilities
+httpx
+requests
